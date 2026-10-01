@@ -73,7 +73,7 @@ ecommerce-shipping-delay-prediction/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/ecommerce-shipping-delay-prediction.git
+git clone https://github.com/<aryank2074-a>/ecommerce-shipping-delay-prediction.git
 cd ecommerce-shipping-delay-prediction
 
 # 2. (Optional) create a virtual environment
